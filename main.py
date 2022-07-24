@@ -1,4 +1,4 @@
-import functions_tugas_4 as func
+import functions as func
 import os
 
 os.chdir("Pacmann/TUGAS/Advanced Data Manipulation/tugas_4")
